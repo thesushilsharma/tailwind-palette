@@ -1,6 +1,19 @@
 # tailwind-palette
-A tool for creating and exploring color palettes for Tailwind CSS and Shadcn UI. A dynamic theme generator built with Next.js (App Router), ShadCN, and Tailwind CSS. Users can customize their theme by selecting a primary color, border radius, and theme mode (light/dark), with three unique design variants: Tint, Professional, and Vibrant. The app generates a theme schema, which users can preview, tweak, and export.
+A tool for creating and exploring color palettes for Tailwind CSS and Shadcn UI. A dynamic theme generator built with Next.js (App Router), Shadcn, and Tailwind CSS. Users can customize their theme by selecting a primary color, border radius, and theme mode (light/dark), with three unique design variants: Tint, Professional, and Vibrant. The app generates a theme schema, which users can preview, tweak, and export.
 
+---
+
+## Installation 
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/thesushilsharma/tailwind-palette.git
+cd tailwind-palette
+npm install
+npm run dev
+```
+
+---
 
 🚀 Features
 
@@ -9,7 +22,7 @@ A tool for creating and exploring color palettes for Tailwind CSS and Shadcn UI.
 - ⚡ Instant Preview – See live changes while customizing.
 - 📋 Copy & Export – Easily copy the generated theme CSS.
 - 🌙 Light & Dark Mode Support.
-- 🏗 Built with Next.js App Router, ShadCN, and Tailwind CSS.
+- 🏗 Built with Next.js App Router, Shadcn, and Tailwind CSS.
 
 
 🛠 Usage
@@ -22,7 +35,7 @@ A tool for creating and exploring color palettes for Tailwind CSS and Shadcn UI.
 
 ## Deployment
 
-You can deploy this repo to a production server using a platform like Vercel, Netlify, Heroku, or any other platform of your choice.
+You can deploy this repo to a production server using a platform like Vercel, Netlify, Heroku, or any other platform you choose.
 
 ## Contributing
 
