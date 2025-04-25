@@ -32,10 +32,10 @@ npm run dev
 1. Preview the theme in real time.
 1. Copy the generated CSS variables and use them in your project.
 
-
-## Deployment
-
-You can deploy this repo to a production server using a platform like Vercel, Netlify, Heroku, or any other platform you choose.
+## Known Issues
+- [ ] The site does not generate `--sidebar-background` variable
+- [ ] default color adjustments and 
+- [ ] need to shadcn components to show case
 
 ## Contributing
 
@@ -43,4 +43,4 @@ Contributions are welcome! Feel free to fork, create a branch, and submit a PR.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Please take a look at the [LICENSE](LICENSE) file for details.
